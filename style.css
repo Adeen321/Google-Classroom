@@ -1,0 +1,144 @@
+*{
+    margin: 0px;
+}
+.a{
+    border: 1px solid gainsboro;
+    height: 70px;
+    width: 1478px;
+    display: inline-block;
+}
+.a img{
+    margin-left:50px;
+    margin-top: 20px;
+    width: 30px;
+    /* margin-right: 10px; */
+}
+
+
+.a a{
+    color: gray;
+}
+.a h2{
+    margin-left: 130px;
+    margin-top: -30px;
+    text-decoration: none;
+    
+}
+.A{
+
+    position: absolute;
+    margin-left:55px;
+    margin-top: -50px;
+}
+
+.a h2{
+    margin-left: 60px;
+}
+.Aa{
+    margin-left: 1100px;
+    margin-top :-65px;
+}
+.b{
+    margin-top: 00px;
+    height: 100px;
+    width: 350px;
+    position: absolute;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.B{
+    position: relative;
+    border-radius: 100%;
+margin-left: 240px;
+    margin-top:60px;
+
+}
+.AA{
+    position: absolute;
+    margin-top: 100px;
+    border: 1px solid gainsboro;
+    height: 350px;
+    width: 350px;
+    margin-right: 1400px;
+    margin-left: 100px;
+    border-radius: 10px;
+
+    
+}
+.AA h2:hover{
+text-decoration: underline;
+}
+.AA h4:hover{
+    text-decoration: underline;
+}
+.bb{
+    border: 1px solid gainsboro;
+    margin-top: 190px;
+    height: 60px;
+    border-bottom-left-radius: 10px;
+    border-bottom-Right-radius: 10px;
+}
+.AB{
+    overflow-x: hden;
+    width: 400px;
+    /* margin-left: -415px; */
+    height: 400px;
+    margin-top: 10px;
+}
+i{
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 100px;
+}
+.D{
+    margin-top: -17px;
+    margin-left: 80px;
+} 
+.AC{
+    overflow-y:auto;
+    border: 1PX solid gainsboro;
+    overflow-x: hidden;
+    width: 400px;
+    margin-left: -415px;
+    height: 400px;
+    margin-top: -750px;
+position:relative;
+}
+.AE{
+    border: 1px solid gainsboro ;
+    margin-left: -415px;
+      width: 400px;
+      height: 150px;
+      margin-top: -10px;
+}
+.AH{
+    border: 1px solid gainsboro;
+    position: absolute;
+    margin-top: -150px;
+    margin-left: -415px;
+width: 400px;
+height: 150px
+
+}
+body{
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.AB img :hover{
+    border: 1px solid gainsboro;
+}
+@media screen and (max-width:600px) {
+    .AG{
+        display: none;
+    }
+    .AF{
+        
+    }
+
+}
+.AG{margin-top: 500px;
+    margin-left: -450px;
+}
+.AF{
+    flex-wrap: nowrap;
+}
